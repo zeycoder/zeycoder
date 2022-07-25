@@ -1,38 +1,32 @@
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=wiyuvi&column=4&row=1&theme=dracula&margin-w=5"> 
-</a>
-</p>
-<h1 align="center"><b><i>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Zeynep Arslan</i></b></h1>
+Hi 👋 My name is Zeynep Arslan
+==============================
 
-<h3 align="center"><i> I am studying Software Engineering at <b>Manisa Celal Bayar University</b>.  </i></h3>
+I am studying Software Engineering at Manisa Celal Bayar University.
 
+* ✉️  You can contact me at [zynparsln.5561@gmail.com](mailto:zynparsln.5561@gmail.com)
+* 🧠  I'm learning React Native
 
+### Skills
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/-zeyneparslan-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/wiyuvix"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:zynparsln.5561@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=wiyuvi&countColor=%237B1E7A" /></a>
-</p>
-
-<p align="center">
-<img align="center" src="https://www.codewars.com/users/zeyneparslan/badges/large" alt="zeynep arslan" />
-</a>
-</p>
-  <h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  </p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiyuvi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" alt="wiyuvi" /
-</a>
+<p align="left">
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiyuvi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="salih ozkara" />
-</a>
-</p>
+### Socials
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiyuvi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="salih ozkara" />
-</a>
-</p>
+<p align="left"> <a href="https://www.codepen.io/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/' wiyuvi '#4631" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/zeycoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zynprslnw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/-zeyneparslan-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18823195/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/wiyuvix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/zeycoder"><img src="https://github-readme-stats.vercel.app/api?username=zeycoder&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="zeycoder's GitHub stats" /></a>
+
+<a href="http://www.github.com/zeycoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeycoder&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/zeycoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeycoder&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
