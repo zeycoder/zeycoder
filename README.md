@@ -28,5 +28,3 @@ I am studying Software Engineering at Manisa Celal Bayar University.
 <a href="http://www.github.com/zeycoder"><img src="https://github-readme-stats.vercel.app/api?username=zeycoder&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="zeycoder's GitHub stats" /></a>
 
 <a href="http://www.github.com/zeycoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeycoder&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/zeycoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeycoder&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
