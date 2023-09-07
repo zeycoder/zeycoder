@@ -1,7 +1,7 @@
 Hi 👋 My name is Zeynep Arslan
 ==============================
 
-I graduated from Celal Bayar University Software Engineering this year. I am developing myself in React Native.
+I graduated from Celal Bayar University Software Engineering this year(2023 Agust). I am developing myself in React Native.
 
 * ✉️  You can contact me at [zynparsln.5561@gmail.com](mailto:zynparsln.5561@gmail.com)
 * 🧠  I'm learning React Native
