@@ -1,9 +1,9 @@
 Hi 👋 My name is Zeynep Arslan
 ==============================
 
-I graduated from Celal Bayar University Software Engineering this year ( 2023 Agust ). I am developing myself in React Native. And I have approximately one year of internship experience in this field.
+I graduated from Celal Bayar University Software Engineering this year(2023 Agust). I am developing myself in React Native. And I have approximately one year of internship experience in this field.
 
-* ✉️  You can contact me at [zynparsln.5561@gmail.com](mailto:zynparsln.5561@gmail.com)
+* ✉️  You can contact me at [zyneparslan.tr@gmail.com](mailto:zynepaarslan.tr@gmail.com)
 * 🧠  I'm learning React Native
 
 ### Skills
@@ -15,7 +15,7 @@ I graduated from Celal Bayar University Software Engineering this year ( 2023 Ag
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/zeycoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/-zeyneparslan-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.codepen.io/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>  <a href="https://www.stackoverflow.com/users/18823195/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/zynprslnw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://discord.com/users/' wiyuvi '#4631" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/zeycoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/-zeyneparslan-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.codepen.io/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>  <a href="https://www.stackoverflow.com/users/18823195/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/zynprslnw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://discord.com/users/wiyuvi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 </p>
 
 ### Badges
